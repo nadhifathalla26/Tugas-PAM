@@ -18,7 +18,7 @@ const Info = ({ route, navigation }) => {
     <>
       <StatusBar barStyle="light-content" backgroundColor="#00660e" />
       <SafeAreaView style={styles.container}>
-        <View style={styles.topNavigation}>
+        <View style={styles.pages}>
           <View style={styles.back}>
             <TouchableOpacity onPress={() => navigation.navigate('Home')}>
               <Icon name="chevron-left" style={styles.buttonBack} size={20} />
@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
     container: {
     flex: 1,
   },
-  topNavigation: {
+  pages: {
     backgroundColor: '#00660e',
   },
   buttonBack: {
