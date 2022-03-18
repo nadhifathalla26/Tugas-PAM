@@ -1,2 +1,2 @@
 # Tugas-PAM
-Repo for Tugas Pengembangan Aplikasi Mobile
+Repository for Tugas Pengembangan Aplikasi Mobile (PAM) ITERA
