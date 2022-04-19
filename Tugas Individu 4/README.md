@@ -2,6 +2,8 @@
 Nama : Muhammad Nadhif Athalla <br/>
 NIM : 119140209 <br/>
 Kelas : Pengembangan Aplikasi Mobile RB <br/>
+## Nama Aplikasi
+yourOwn-Barcode-Scanner
 ## Deskripsi Aplikasi
 Aplikasi yourOwn-Barcode-Scanner adalah aplikasi yang mampu memindai suatu barcode atau Qrcode kemudian menampilkannya dalam bentuk teks. Selain itu didalam aplikasi ini, anda juga dapat memuat foto yang dapat menjadi profil pribadi anda.
 ## Daftar Package
