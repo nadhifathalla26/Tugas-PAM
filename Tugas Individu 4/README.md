@@ -21,7 +21,7 @@ Aplikasi yourOwn-Barcode-Scanner adalah aplikasi yang mampu memindai suatu barco
 12. "react-native-vector-icons": "^9.1.0",
 13. "react-native-web": "0.17.1"
 ## Cara Menginstall Aplikasi
-1. Mendownload file .apk pada link berikut : https://drive.google.com/file/d/1qgvrhhL55rJYSuHnXsIt33U0uFHz5x_n/view?usp=sharing
+1. Mendownload file .apk pada link berikut : https://drive.google.com/file/d/1GLIRRZ-jY5-70pA7fHbR5UncCqQHyz_Z/view?usp=sharing
 2. Pastikan sudah terdapat aplikasi tersebut didalam ponsel android anda
 3. Install aplikasi tersebut
 4. Selamat menikmati dan mohon maaf apabila terdapat ketidaksempurnaan dalam pengembangan aplikasi
